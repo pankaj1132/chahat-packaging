@@ -4,6 +4,7 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import { useParams } from "react-router-dom";
 import { statesOfIndia } from "../location";
 
+
 const Location = () => {
   const { location } = useParams();
   // Convert route param back to state name

@@ -7,7 +7,7 @@ import Footer from './Components/Footer';
 import HomePage from './Pages/Home';
 import AboutPage from './Pages/AboutPage';
 import MarketPlace from './Pages/MarketPlace';
-import Location from './Pages/location';
+import Location from './Pages/LocationPage';
 import Contact from './Pages/Contact';
 import ServiceDetail from './Components/ServiceDetail';
 import TopHeader from './Components/TopHeader';

@@ -2,7 +2,7 @@
 import React from "react";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Link } from "react-router-dom";
-import { statesOfIndia } from "../location";
+
 
 const MarketPlace = () => {
   return (
